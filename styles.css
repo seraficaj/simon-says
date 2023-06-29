@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    height: 100%;
+}
+
+.box {
+    height: 100%;
+}
+
+.is-custom-width {
+    width: 100px;
+    margin: 0 0 20px 0;
+}
+
+#keypad {
+  max-width: 660px;
+}
